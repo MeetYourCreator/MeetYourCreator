@@ -1,6 +1,6 @@
-### It's time for you to Meet Your Creator!
+### Isn't it time for you to Meet Your Creator!
 
-##Hi there, my name is Rami Zackary Shamir.  👋
+## Hi there, my name is Rami Zackary Shamir.  👋
 
 - :computer: I’m currently developing projects in React 
 
