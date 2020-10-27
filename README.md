@@ -4,7 +4,10 @@
 
 - :computer: I’m currently developing projects in React 
 
-- <img alt="React" width="26px" src="https://user-images.githubusercontent.com/57572988/90912992-92cb5a00-e3a9-11ea-9dd2-0f15de8fa868.png" /> I'm currently reading Dave Ceddia's [Pure React](https://purereact.com/) and if you're new to React, you should be too!
+- I'm currently reading Dave Ceddia's [Pure React](https://purereact.com/) and if you're new to React, you should be too!
+
+<!--
+**MeetYourCreator/MeetYourCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Languages and Tools
 
@@ -33,8 +36,6 @@
 <img align="left" padding="100px" alt="Adobe Photoshop" width="32px" src="https://user-images.githubusercontent.com/57572988/92329336-cd352800-f034-11ea-87a0-81e704b1500f.png" />
 
 <img align="left" padding="100px" alt="Adobe XD" width="32px" src="https://user-images.githubusercontent.com/57572988/92329360-f3f35e80-f034-11ea-88e8-70053f5a8ebd.png" />
-<!--
-**MeetYourCreator/MeetYourCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
