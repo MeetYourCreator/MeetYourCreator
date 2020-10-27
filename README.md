@@ -24,7 +24,7 @@
 
 <img align="left" padding="100px" alt="Adobe After Effects" width="32px" src="https://res.cloudinary.com/ramizackaryshamir/image/upload/v1603826097/adobe_after-effects_icon-1090-1080_may1rx.png" />
 
-<img align="left" padding="100px" alt="Adobe Premier Pro" width="32px" src="https://user-images.githubusercontent.com/57572988/92329243-454f1e00-f034-11ea-8327-16c4b48efdb7.png" />
+<img align="left" padding="100px" alt="Adobe Premier Pro" width="32px" src="https://res.cloudinary.com/ramizackaryshamir/image/upload/v1603826098/premiere-pro_icon-1090_1080_vcjfje.pngg" />
 
 <img align="left" padding="100px" alt="Adobe Illustrator" width="32px" src="https://res.cloudinary.com/ramizackaryshamir/image/upload/v1603826097/adobe_illustrator__con-1090_1080_rl7iv0.png" />
 
