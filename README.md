@@ -12,6 +12,7 @@
 
 <img align="left" padding="100px" alt="React" width="32px" src="https://res.cloudinary.com/ramizackaryshamir/image/upload/v1603826099/react-logo-1_uhlbvn.png" />
 
+<img align="left" padding="100px" alt="Ruby-on-Rails_logo" width="32px" src="https://res.cloudinary.com/ramizackaryshamir/image/upload/v1603827204/ruby-on-rails-logo_vwlvg7.png" />
 <img align="left" padding="100px" alt="HTML5" width="32px" src="https://res.cloudinary.com/ramizackaryshamir/image/upload/v1603826098/html5_icon_1090-1080_ggjwmd.png" />
 
 <img align="left" padding="100px" alt="CSS3" width="32px" src="https://res.cloudinary.com/ramizackaryshamir/image/upload/v1603826097/css3-icon_1090-1080_wlgm8g.png" />
