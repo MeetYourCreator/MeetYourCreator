@@ -8,7 +8,7 @@
 
 ## Languages and Tools
 
-<img align="left" padding="100px" alt="JavaScript" width="30px" src="https://user-images.githubusercontent.com/57572988/90911398-ec7e5500-e3a6-11ea-956b-7f76254de920.png" />
+<img align="left" padding="100px" alt="JavaScript" width="30px" src="https://res.cloudinary.com/ramizackaryshamir/image/upload/v1603826098/javascript-logo_zcnc18.png" />
 
 <img align="left" padding="100px" alt="React" width="32px" src="https://user-images.githubusercontent.com/57572988/90912992-92cb5a00-e3a9-11ea-9dd2-0f15de8fa868.png" />
 
