@@ -4,7 +4,7 @@
 
 - :computer: I’m currently developing projects in React, and designing apps with JavaScript and NodeJS.
 
-- :book My favorite book of 2020 is hands down Dave Ceddia's [Pure React](https://purereact.com/)
+- My favorite book of 2020 is hands down Dave Ceddia's [Pure React](https://purereact.com/)
 
 - You can find out more about me on my [website](https://www.meetyourcreator.com/) or [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/)
 
