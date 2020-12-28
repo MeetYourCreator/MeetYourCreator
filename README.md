@@ -1,4 +1,4 @@
-## Isn't it time for you to Meet Your Creator?!
+# Time for you to Meet Your Creator?!
 
 ### Hi there, my name is Rami Zackary Shamir.  👋
 
