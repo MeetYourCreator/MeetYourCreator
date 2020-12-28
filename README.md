@@ -4,11 +4,11 @@
 
 - :computer: I’m currently developing projects in React, and designing apps with JavaScript and NodeJS.
 
-- My favorite book of 2020 is hands down Dave Ceddia's [Pure React](https://purereact.com/)
+- :closed_book: My favorite book of 2020 is hands down Dave Ceddia's [Pure React](https://purereact.com/)
 
-- You can find out more about me on my [website](https://www.meetyourcreator.com/) or [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/)
+- :city_sunrise: You can find out more about me on my [website](https://www.meetyourcreator.com/) or [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/)
 
-- You can contact me at ramizackshamir@icloud.com
+- :email: You can contact me at ramizackshamir@icloud.com
 
 ### Languages and Tools
 
