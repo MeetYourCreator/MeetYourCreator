@@ -2,7 +2,7 @@
 
 ### Hi there, my name is Rami Zackary Shamir.  👋
 
-- :computer: I’m currently developing projects in React, and designing apps with JavaScript and NodeJS.
+- :computer: I’m currently developing projects in React, and designing apps with JavaScript and NodeJS
 
 - :closed_book: My favorite book of 2020 is hands down Dave Ceddia's [Pure React](https://purereact.com/)
 
