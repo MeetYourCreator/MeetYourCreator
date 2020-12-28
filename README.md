@@ -1,4 +1,4 @@
-# Time for you to Meet Your Creator?!
+## Time for you to Meet Your Creator!
 
 ### Hi there, my name is Rami Zackary Shamir.  👋
 
@@ -6,7 +6,7 @@
 
 - Favorite book of 2020: Dave Ceddia's [Pure React](https://purereact.com/)
 
-## Languages and Tools
+### Languages and Tools
 
 <img align="left" padding="100px" alt="JavaScript" width="30px" src="https://res.cloudinary.com/ramizackaryshamir/image/upload/v1603826098/javascript-logo_zcnc18.png" />
 
