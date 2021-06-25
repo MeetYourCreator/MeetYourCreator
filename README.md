@@ -8,7 +8,7 @@
 
 - :city_sunrise: You can find out more about me on my [website](https://www.meetyourcreator.com/) or [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/)
 
-- :email: You can contact me at ramizackshamir@icloud.com
+- :email: You can contact me at ramizackaryshamir@icloud.com
 
 ### Languages and Tools
 
