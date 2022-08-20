@@ -14,7 +14,7 @@
 > my [website](https://www.meetyourcreator.com/) 
 
 :email: How can we connect?
-> shoot me an (email)[mailto:rzshamir@icloud.com]
+> shoot me an email <mailto:rzshamir@icloud.com>
 > connect with me on [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/)
 
 ### Languages and Tools
