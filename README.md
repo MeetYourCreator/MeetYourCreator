@@ -2,16 +2,16 @@
 
 ### Hi there, my name is Rami Zackary Shamir.  👋
 
-- 💻 I’m currently developing projects with React-Native
+💻 I’m currently developing projects with React-Native
 
-- 🧮 These npm libraries currently have my attention
+🧮 These npm libraries currently have my attention
 > [react-csv](https://www.npmjs.com/package/react-csv)
 > [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
 > [tesseract.js](https://www.npmjs.com/package/tesseract.js)
 
-- :city_sunrise: You can find out more about me on my [website](https://www.meetyourcreator.com/) or [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/)
+:city_sunrise: You can find out more about me on my [website](https://www.meetyourcreator.com/) or [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/)
 
-- :email: You can contact me at rzshamir@icloud.com
+:email: You can contact me at rzshamir@icloud.com
 
 ### Languages and Tools
 
