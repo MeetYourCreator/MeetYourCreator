@@ -7,7 +7,9 @@
 
 🧮 These npm libraries currently have my attention
 > [react-csv](https://www.npmjs.com/package/react-csv)
+> 
 > [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
+> 
 > [tesseract.js](https://www.npmjs.com/package/tesseract.js)
 
 :city_sunrise: Where can you fibnd out more about me?
