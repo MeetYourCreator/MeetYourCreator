@@ -12,10 +12,10 @@
 > 
 > [tesseract.js](https://www.npmjs.com/package/tesseract.js)
 
-:city_sunrise: Where can you find out more about me?
+❓ Where can you find out more about me?
 > my [website](https://www.meetyourcreator.com/) 
 
-:email: How can we connect?
+⁉ How can we connect?
 > shoot me an email at rzshamir@icloud.com
 > 
 > connect with me on [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/)
