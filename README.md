@@ -12,7 +12,7 @@
 > 
 > [tesseract.js](https://www.npmjs.com/package/tesseract.js)
 
-:city_sunrise: Where can you fibnd out more about me?
+:city_sunrise: Where can you find out more about me?
 > my [website](https://www.meetyourcreator.com/) 
 
 :email: How can we connect?
