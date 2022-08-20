@@ -2,9 +2,9 @@
 
 ### Hi there, my name is Rami Zackary Shamir.  👋
 
-- 💻: I’m currently developing projects with React-Native
+- 💻 I’m currently developing projects with React-Native
 
-- :closed_book: My favorite book of 2020 is hands down Dave Ceddia's [Pure React](https://purereact.com/)
+- 🧮 These npm libraries currently have my attention [react-csv](https://www.npmjs.com/package/react-csv) [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) [tesseract.js](https://www.npmjs.com/package/tesseract.js)
 
 - :city_sunrise: You can find out more about me on my [website](https://www.meetyourcreator.com/) or [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/)
 
