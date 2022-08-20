@@ -15,6 +15,7 @@
 
 :email: How can we connect?
 > shoot me an email at rzshamir@icloud.com
+> 
 > connect with me on [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/)
 
 ### Languages and Tools
