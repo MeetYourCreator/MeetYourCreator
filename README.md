@@ -3,14 +3,20 @@
 ### Hi there, my name is Rami Zackary Shamir.  👋
 
 💻 I’m currently developing projects 
-> with React-Native
+> with NextJS, React, and TypeScript
 
-🧮 These npm libraries currently have my attention
+🧮 Some npm libraries that I like
+> [R3F](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+>
+> [3JS](https://threejs.org/)
+>
+> [TESSERACTjs](https://www.npmjs.com/package/tesseract.js)
+> 
 > [react-csv](https://www.npmjs.com/package/react-csv)
 > 
 > [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
 > 
-> [tesseract.js](https://www.npmjs.com/package/tesseract.js)
+
 
 ❓ Where can you find out more about me?
 > my [website](https://www.meetyourcreator.com/) 
