@@ -10,7 +10,7 @@
 >
 > [3js](https://threejs.org/)
 >
-> [theatreJS](https://www.theatrejs.com/docs/latest)
+> [THEATREjs](https://www.theatrejs.com/docs/latest)
 >
 > [TESSERACTjs](https://www.npmjs.com/package/tesseract.js)
 > 
