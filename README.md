@@ -6,9 +6,11 @@
 > with NextJS, React, and TypeScript
 
 🧮 Some npm libraries that I like
-> [R3F](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+> [r3f](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 >
-> [3JS](https://threejs.org/)
+> [3js](https://threejs.org/)
+>
+> [theatreJS](https://www.theatrejs.com/docs/latest)
 >
 > [TESSERACTjs](https://www.npmjs.com/package/tesseract.js)
 > 
