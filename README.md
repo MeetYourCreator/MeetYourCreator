@@ -1,5 +1,3 @@
-## Time to Meet Your Creator!
-
 ### Hi there, my name is Rami Zackary Shamir.  👋
 
 💻 I’m currently developing projects 
